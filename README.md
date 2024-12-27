@@ -1,4 +1,4 @@
-# Trip Advisor
+# Travel Around
 
 This is a React-based web application that allows users to explore different places and view weather information on a map. The application makes use of the Google Maps API for map functionality and integrates with various data sources to fetch information about places and weather.
 
